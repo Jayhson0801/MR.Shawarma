@@ -153,3 +153,12 @@ a{
     letter-spacing: 2px;
     transition: 0.4s;
 }
+.slider .list .item .content .button button:hover{
+    
+    color: rgb(0, 0, 0)!important;
+    box-shadow: 0 0 5px whitesmoke,
+    0 0 25px whitesmoke, 0 0 50px whitesmoke,
+    0 0 100px whitesmoke, 0 0 200px whitesmoke;
+
+}
+
