@@ -79,7 +79,7 @@ a{
     padding-right: 1px;
     padding-left: 1px;
     transition: transform 2s;
-    border: 4px solid black;
+    
 }
 .banner:hover img{
     transform: scale(1.2);
